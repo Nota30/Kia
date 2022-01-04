@@ -1,2 +1,2 @@
 # Kia
-A cute multipurpose discord bot made with Node.js!
+A cute multipurpose discord bot made with Rust!
